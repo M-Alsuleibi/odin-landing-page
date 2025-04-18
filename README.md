@@ -13,3 +13,8 @@ Do _not_ be afraid to use Google or go back to previous lessons to look somethin
 3. For the section you’re working on, begin by getting all the content onto the page before beginning to style it. In other words, do the HTML and then do the CSS. You’ll probably have to go back to the HTML once you start styling, but bouncing back and forth from the beginning will take more time and may cause more frustration. (Note: you don’t need to use more than one stylesheet. Using only one CSS file is adequate for this project).
 4. Many of the elements on this page are very similar to things you saw in our flexbox exercises… feel free to go back to those if you need a refresher.
 5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
+
+
+## Credits
+
+- "A building with a large glass window and a river" by [Ryan Klaus](https://www.pexels.com/@ryank/) on [Pexels](https://www.pexels.com/photo/a-building-with-a-large-glass-window-and-a-river-14953692/)
